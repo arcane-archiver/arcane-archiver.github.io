@@ -1,2 +1,5 @@
-# arcane-archiver.github.io
-A personal website.
+# Personal Website
+
+This is my personal website.
+
+It doesn't have much at the moment.
